@@ -16,3 +16,9 @@ button {
   color:whita;
   text-align:left;
   } 
+div.logo {
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+}
