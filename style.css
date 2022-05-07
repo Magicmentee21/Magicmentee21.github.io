@@ -16,6 +16,9 @@ button {
   color:white;
   text-align:left;
   } 
+div.info {
+  width: 100%;
+}
 div.logo {
   position: fixed;
   bottom: 10px;
