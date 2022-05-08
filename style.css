@@ -22,3 +22,9 @@ div.logo {
   width: 100%;
   text-align:right;
 }
+div.logo-left {
+  position: fixed;
+  top: 10px;
+  width: 100%;
+  text-align:left;
+}
