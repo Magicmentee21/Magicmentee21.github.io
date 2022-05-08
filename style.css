@@ -10,12 +10,12 @@ p {
   color:blue;
   text-align:left;
 }
-/*button {
+button {
   background-color:white;
   font-weight:bold;
   color:black;
   text-align:left;
-} */
+}
 div.logo {
   position: fixed;
   top: 10px;
