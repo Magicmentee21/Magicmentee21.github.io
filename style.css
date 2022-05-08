@@ -1,21 +1,21 @@
 h1 {
   color:white;
   text-align:center;
-   }
+}
 h2 {
   color:black;
   text-align:center;
-   }
+}
 p {
   color:blue;
   text-align:left;
-  }
+}
 button {
   background-color:white;
   font-weight:bold;
   color:black;
   text-align:left;
-  } 
+} 
 div.logo {
   position: fixed;
   top: 10px;
