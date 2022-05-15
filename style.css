@@ -1,5 +1,5 @@
 h1 {
-  color:white;
+  color:#f7948e;    /* Color code from https://www.color-hex.com/ */
   text-align:center;
 }
 h2 {
@@ -7,7 +7,7 @@ h2 {
   text-align:center;
 }
 p {
-  color:blue;
+  color:yellow;
   text-align:left;
 }
 button {
