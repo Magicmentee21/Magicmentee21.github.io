@@ -1,19 +1,21 @@
+/* Color code from https://www.color-hex.com/ */
+
 h1 {
-  color:#f7948e;    /* Color code from https://www.color-hex.com/ */
+  color:white;    
   text-align:center;
 }
 h2 {
-  color:black;
+  color:#004268;
   text-align:center;
 }
 p {
-  color:yellow;
+  color:#2d407d;
   text-align:left;
 }
 button {
-  background-color:white;
+  background-color:#f7948e;
   font-weight:bold;
-  color:black;
+  color:yellow;
   text-align:left;
 }
 div.logo {
