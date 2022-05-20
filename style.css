@@ -18,6 +18,12 @@ button {
   color:yellow;
   text-align:left;
 }
+back-button {
+  background-color:red;
+  font-weight:bold;
+  color:white;
+  text-align:left;
+}
 div.logo {
   position: fixed;
   top: 10px;
