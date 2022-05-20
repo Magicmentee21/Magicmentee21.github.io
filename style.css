@@ -23,6 +23,8 @@ button {
   font-weight:bold;
   color:yellow;
   text-align:left;
+  position: fixed;
+  bottom: 10px;
 }
 div.logo {
   position: fixed;
