@@ -23,8 +23,12 @@ button {
   font-weight:bold;
   color:yellow;
   text-align:left;
+}
+div.back {
   position: fixed;
   bottom: 10px;
+  width: 100%;
+  text-align:center;  
 }
 div.logo {
   position: fixed;
