@@ -12,6 +12,9 @@ p, li {
   color:Navy;
   text-align:left;
 }
+#p-center {
+  text-align:center;
+}
 button {
   background-color:OrangeRed;
   font-weight:bold;
