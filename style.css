@@ -1,15 +1,15 @@
 /* For color names, see https://www.w3schools.com/colors/colors_groups.asp */
 
 h1 {
-  color:White;    
+  color:CornSilk;    
   text-align:center;
 }
 h2 {
-  color:DarkBlue;
+  color:CornSilk;
   text-align:center;
 }
 p {
-  color:SteelBlue;
+  color:Navy;
   text-align:left;
 }
 button {
