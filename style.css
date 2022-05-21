@@ -16,13 +16,15 @@ button {
   background-color:OrangeRed;
   font-weight:bold;
   color:Gold;
-  text-align:left;
+  text-align:center;
+  padding: 15px 32px;
 }
 #back-button {
   background-color:Crimson;
   font-weight:bold;
   color:LemonChiffon;
   text-align:left;
+  padding: 15px 32px;
 }
 div.back {
   position: fixed;
