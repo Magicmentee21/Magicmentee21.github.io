@@ -8,12 +8,12 @@ h2 {
   color:CornSilk;
   text-align:center;
 }
-p {
+p, li {
   color:Navy;
   text-align:left;
 }
 button {
-  background-color:Salmon;
+  background-color:OrangeRed;
   font-weight:bold;
   color:Gold;
   text-align:left;
