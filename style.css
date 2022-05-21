@@ -1,25 +1,25 @@
-/* Color code from https://www.color-hex.com/ */
+/* For color names, see https://www.w3schools.com/colors/colors_groups.asp */
 
 h1 {
-  color:white;    
+  color:White;    
   text-align:center;
 }
 h2 {
-  color:#004268;
+  color:DarkBlue;
   text-align:center;
 }
 p {
-  color:#2d407d;
+  color:SteelBlue;
   text-align:left;
 }
 button {
-  background-color:#f7948e;
+  background-color:Salmon;
   font-weight:bold;
-  color:yellow;
+  color:Gold;
   text-align:left;
 }
 #back-button {
-  background-color:red;
+  background-color:Red;
   font-weight:bold;
   color:yellow;
   text-align:left;
