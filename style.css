@@ -16,15 +16,15 @@ p, li {
   text-align:center;
 }
 button {
-  background-color:OrangeRed;
+  background-color:FireBrick;
   font-weight:bold;
-  color:LightYellow;
+  color:LemonChiffon;
   text-align:center;
   padding: 15px 32px;
   font-size: 16px;
 }
 #back-button {
-  background-color:Crimson;
+  background-color:FireBrick;
   font-weight:bold;
   color:LemonChiffon;
   text-align:center;
