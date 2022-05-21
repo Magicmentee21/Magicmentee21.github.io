@@ -1,11 +1,7 @@
 /* For color names, see https://www.w3schools.com/colors/colors_groups.asp */
 
-h1 {
-  color:CornSilk;    
-  text-align:center;
-}
-h2 {
-  color:CornSilk;
+h1, h2 {
+  color:White;    
   text-align:center;
 }
 p, li {
