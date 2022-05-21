@@ -45,3 +45,6 @@ div.logo-left {
   width: 100%;
   text-align:left;
 }
+#div-center {
+  text-align:center;
+}
