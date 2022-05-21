@@ -33,7 +33,7 @@ button {
 }
 div.back {
   position: fixed;
-  bottom: 10px;
+  bottom: 40px;
   width: 100%;
   text-align:center;  
 }
